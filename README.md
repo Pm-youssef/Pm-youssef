@@ -1,10 +1,10 @@
-## Youssef: mobile apps, from idea to the App Store
+## Youssef
 
-I build Android and iOS apps together with the backend, admin dashboard and payments behind them. Then I release them to Google Play and the App Store and keep them running. I work from Egypt, in Arabic and English.
+I build Flutter apps for Android and iOS, plus the Laravel or Firebase backend they need. I'm in Egypt and work in Arabic and English.
 
-### GuideMe: a product I built and run
+### GuideMe
 
-[GuideMe](https://guideme-eg.com) books licensed local guides for tourists in Egypt. I built the whole thing myself: a tourist app, a guide app, a Laravel API with an admin dashboard, and the website. It has been live on both stores since 2026.
+My main project is [GuideMe](https://guideme-eg.com). Tourists use it to book licensed local guides in Egypt. It has two apps, one for tourists and one for guides, both on Google Play and the App Store. A Laravel API and admin dashboard sit behind them. I write the code and handle the store releases. I work with AI coding tools, which is how one person keeps all of it moving.
 
 <p>
   <img src="https://github.com/Pm-youssef/guideme-case-study/raw/main/images/tourist-01.png" width="180" alt="GuideMe tourist app: Book Now or Schedule Trip">
@@ -12,33 +12,18 @@ I build Android and iOS apps together with the backend, admin dashboard and paym
   <img src="https://github.com/Pm-youssef/guideme-case-study/raw/main/images/guide-01.png" width="180" alt="GuideMe guide app in Arabic: a new trip request">
 </p>
 
-- You can book a guide now or schedule one for later. You see the guide coming to you live, chat in the app, and pay by card (Stripe) or cash.
-- The tourist app is in 12 languages, including Arabic with right-to-left layout, and has a visual mode for deaf travellers.
-- 25 hotels and hostels have joined its partner referral program.
-- It has 95 automated tests and GitHub Actions CI, and same-day fixes go out through Shorebird patches.
+A tourist books a guide for now or for a later date. They can watch the guide on the map as they come, and they pay by card through Stripe or in cash. The tourist app works in 12 languages, Arabic included, and has a mode for deaf travellers. Twenty-five hotels and hostels refer their guests through a partner code. The code is private, so the [case study](https://github.com/Pm-youssef/guideme-case-study) shows the screens and how it's built.
 
-**[Read the case study →](https://github.com/Pm-youssef/guideme-case-study)** · [Tourist app](https://play.google.com/store/apps/details?id=guide.me.user) · [Guide app](https://play.google.com/store/apps/details?id=guide.me.tour)
+Apps: [tourist](https://play.google.com/store/apps/details?id=guide.me.user) · [guide](https://play.google.com/store/apps/details?id=guide.me.tour)
 
-### Other live work
+### Other work
 
-- **[Masroufy (مصروفي)](https://masroufy-eg.web.app)**: a personal finance tracker for Egyptians.
-- **[Aura](https://aura-gym-eg.web.app)**: a gym app with ranks and rewards for members.
-- **[Mavex](https://github.com/Pm-youssef/my-mavex)**: an online clothing store (Next.js 14, Prisma, Paymob checkout, admin dashboard).
+- [Masroufy (مصروفي)](https://masroufy-eg.web.app): a web app for tracking personal spending in Egyptian pounds.
+- [Aura](https://aura-gym-eg.web.app): a gym web app where members earn ranks and rewards.
+- [Mavex](https://github.com/Pm-youssef/my-mavex): an online clothing store with Paymob checkout, built in Next.js. It's a portfolio piece and has never gone live.
 
-### What I can build for you
+I'm studying Computer Science and graduate in June 2027. Two of my course projects are public: a [compiler for a small typed language](https://github.com/Pm-youssef/compiler) and a [medical search engine](https://github.com/Pm-youssef/medical-search).
 
-- A mobile app for Android and iOS (Flutter)
-- The backend and admin dashboard behind it (Laravel, Firebase, MySQL)
-- Payments (Stripe, Paymob), live maps and tracking, chat and push notifications
-- Arabic and English with right-to-left layout, or more languages
-- Releasing to the stores, plus updates and fixes after launch
+### Working with me
 
-**How I work:** every change gets a dated entry in the changelog and a test. Tests run on every push, and each release comes with a rollback plan. You always know what changed and when.
-
-### Education
-
-BSc Computer Science, graduating June 2027. University projects: a [compiler for a small typed language](https://github.com/Pm-youssef/compiler) and a [medical search engine](https://github.com/Pm-youssef/medical-search).
-
-### Contact
-
-**support@guideme-eg.com**: tell me what you want to build.
+If you need a mobile app with a backend, payments, maps or chat, email me at support@guideme-eg.com. Every change I make goes into a dated changelog with a test, so you can always see what changed and when.
